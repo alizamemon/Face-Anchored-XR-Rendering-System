@@ -10,8 +10,6 @@ This project is a **real-time Face-Anchored Extended Reality (XR) system** that 
 Unlike basic AR filters, this system is designed with **human perception, visual stability, and XR principles** in mind.  
 It focuses on **pose-correct rendering, depth-aware scaling, and temporal smoothing** to ensure a realistic and comfortable user experience.
 
-The project directly aligns with **Extended Reality (XR)** concepts such as **Human Sensation & Perception**, **3D Vision Computation**, and **Human-Centered System Design**.
-
 ---
 
 ## Key Features
