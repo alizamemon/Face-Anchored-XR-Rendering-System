@@ -118,7 +118,7 @@ XR_Face_Anchoring_Project/
 │   ├── mustache.png
 │   ├── hat.png
 │   └── crown.png
-├── main.py
+├── AR.py
 └── README.md
 ```
 
@@ -172,7 +172,6 @@ This project demonstrates a practical understanding of core XR principles requir
 * **Perceptual Stability:** Implementation of temporal smoothing to enhance user comfort.
 * **Performance-Aware CV:** Optimizing CPU-based inference for real-time FPS.
 
-It aligns strongly with **Extended Reality (XR)** coursework and research-oriented learning, specifically focusing on how digital objects interact with human geometry.
 
 ---
 
